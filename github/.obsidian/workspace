@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "5b5b2dbe246ddb38",
+    "type": "split",
+    "children": [
+      {
+        "id": "37ff613525807a0f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "常用指令中的常用 option/commit 重塑.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca5afbd296364369",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a0912b7fbac5463",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1db61f04fbc51fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c982900f9787b05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d20205d3131c81f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dba9b41d8ef15f36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da3ce0bcb00b3cae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "常用指令中的常用 option/commit 重塑.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "37ff613525807a0f",
+  "lastOpenFiles": [
+    "常用指令中的常用 option/commit 重塑.md",
+    "常用指令/commit.md",
+    "check/check history.md",
+    "check/check.md",
+    "check/check status.md",
+    "git.md",
+    "setup/setup.md",
+    "常用指令/常用指令.md",
+    "常用指令/Pasted image 20220103213228.png",
+    "setup/初始化.md"
+  ]
+}

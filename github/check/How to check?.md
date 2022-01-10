@@ -1,0 +1,2 @@
+[[check status]]
+[[check history]]

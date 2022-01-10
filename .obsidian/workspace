@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "45a87c411065811e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed7b7c022317319a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "github/setup/初始化.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad2570fb577321ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "930c4b5235352b07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b64cf08625ea1a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "45ce4f88608dd339",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4481852bfe0711a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3770f50abd15af88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd1fbcde345bb42d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "github/setup/初始化.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ed7b7c022317319a",
+  "lastOpenFiles": [
+    "github/setup/初始化.md",
+    "github/setup/How to setup?.md",
+    "github/git.md",
+    "gitignore/gitignore.md",
+    ".gitignore.md",
+    "值得注意的点/注意📢.md",
+    "值得注意的点/一个 project 就是一个 folder.md",
+    "github/常用指令/add.md",
+    "github/常用指令/常用指令.md"
+  ]
+}
