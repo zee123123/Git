@@ -8,23 +8,23 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:git",
+      "query": "tag:#最主页",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14420233
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 2.16463541666667,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.13613715277778,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.726822916666667,
+  "centerStrength": 0.682725694444444,
   "repelStrength": 20,
-  "linkStrength": 0.738975694444444,
-  "linkDistance": 30,
-  "scale": 1.0033845907368393,
+  "linkStrength": 0,
+  "linkDistance": 308,
+  "scale": 0.9553194492303344,
   "close": false
 }

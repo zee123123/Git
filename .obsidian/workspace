@@ -4,13 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ed7b7c022317319a",
+        "id": "74b2f65070854e1d",
         "type": "leaf",
+        "dimension": 99.99999999999999,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "github/setup/初始化.md",
-            "mode": "source"
+            "file": "其他功能/stash.md",
+            "mode": "source",
+            "backlinks": true
           }
         }
       }
@@ -47,6 +49,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "0d33565bbb71e9b9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -68,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "github/setup/初始化.md",
+                "file": "其他功能/stash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,24 +88,57 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "e2455a61a644410d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "其他功能/stash.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29f959ee8049a14c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b40eede9f2ef54f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "其他功能/stash.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "ed7b7c022317319a",
+  "active": "74b2f65070854e1d",
   "lastOpenFiles": [
+    "其他功能/stash.md",
+    "git.md",
+    "branch/Merge Branch/fast-forward merge.md",
+    "branch/Merge Branch/Pasted image 20220115170254.png",
+    "branch/Merge Branch/merge branch 的几种类型.md",
+    "branch/Merge Branch/Merge Branch.md",
+    "branch/Merge Branch/merge 之后会进行一个 commiit.md",
+    "未命名.md",
     "github/setup/初始化.md",
-    "github/setup/How to setup?.md",
-    "github/git.md",
-    "gitignore/gitignore.md",
-    ".gitignore.md",
-    "值得注意的点/注意📢.md",
-    "值得注意的点/一个 project 就是一个 folder.md",
-    "github/常用指令/add.md",
-    "github/常用指令/常用指令.md"
+    "github/setup/setup 名字和 email.md"
   ]
 }
