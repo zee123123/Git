@@ -26,6 +26,8 @@ ___
 ___你可以有多个 stash___, 用 `git stash list` 来查看所有 stash
 ![[Pasted image 20220123220842.png]]
 后面的是 commit, 代表着你的 stash 在哪个 commit 上
+___
+# pop
 `git pop`会 pop 出最近的一个 stash, 但是会apply 所有其他的 stash
 如果想要apply 特别的哪一个, 需要:
 `git stash apply stash@{2}`

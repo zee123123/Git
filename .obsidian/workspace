@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他功能/stash.md",
+            "file": "git diff/git diff.md",
             "mode": "source",
             "backlinks": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他功能/stash.md",
+                "file": "git diff/git diff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他功能/stash.md",
+                "file": "git diff/git diff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他功能/stash.md"
+                "file": "git diff/git diff.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "74b2f65070854e1d",
   "lastOpenFiles": [
-    "其他功能/stash.md",
+    "git diff/git diff.md",
+    "其他功能/staging area/staging area.md",
+    "其他功能/stash/stash.md",
+    "head/head是什么.md",
+    "图片/Pasted image 20220109202728.png",
+    "branch/switch branch  切换 branch.md",
+    "图片/Pasted image 20220116142811.png",
+    "图片/Pasted image 20220116143545.png",
     "branch/create branch 创造 branch.md",
-    "其他功能/stash图片/Pasted image 20220123221156.png",
-    "其他功能/stash图片/Pasted image 20220123220842.png",
-    "git.md",
-    "branch/Merge Branch/fast-forward merge.md",
-    "branch/Merge Branch/Pasted image 20220115170254.png",
-    "branch/Merge Branch/merge branch 的几种类型.md",
-    "branch/Merge Branch/Merge Branch.md",
-    "branch/Merge Branch/merge 之后会进行一个 commiit.md"
+    "图片/Pasted image 20220123221156.png"
   ]
 }
