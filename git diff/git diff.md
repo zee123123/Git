@@ -13,4 +13,16 @@ ___
 # Options
 `git diff HEAD`
 show 所有与 HEAD的不同
+`git diff --staged` = `git diff --cashed`
+show  与 staging area 与 last commit 之间的 difference
+`git diff --staged FILENAME_1 FILENAME_2`
+show specific 文件的 difference
+`git diff BRANCH1 BRANCH2`
+show 这两个 branch 的区别
+`git diff COMMIT_HASH_NAME_1 COMMIT_HASH_NAME_2`
+show两个 commit 之间的区别
+commit 的 hash code 可以通过 `git log`来 check
 ___
+![[Pasted image 20220130154029.png]]
+
+      

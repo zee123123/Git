@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git diff/git diff.md",
+            "file": "概念/detached head.md",
             "mode": "source",
             "backlinks": true
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:gitignore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git diff/git diff.md",
+                "file": "概念/detached head.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git diff/git diff.md",
+                "file": "概念/detached head.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git diff/git diff.md"
+                "file": "概念/detached head.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "74b2f65070854e1d",
   "lastOpenFiles": [
-    "git diff/git diff.md",
-    "其他功能/staging area/staging area.md",
+    "概念/detached head.md",
+    "概念/概念.md",
+    "git.md",
+    "git/gitignore/gitignore.md",
+    "其他功能/功能.md",
     "其他功能/stash/stash.md",
-    "head/head是什么.md",
-    "图片/Pasted image 20220109202728.png",
-    "branch/switch branch  切换 branch.md",
-    "图片/Pasted image 20220116142811.png",
-    "图片/Pasted image 20220116143545.png",
-    "branch/create branch 创造 branch.md",
-    "图片/Pasted image 20220123221156.png"
+    "概念/staging area.md",
+    "git diff/git diff.md",
+    "值得注意的点/how git works?.md",
+    "值得注意的点/注意📢.md"
   ]
 }
