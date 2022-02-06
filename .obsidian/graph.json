@@ -13,18 +13,25 @@
         "a": 1,
         "rgb": 14420233
       }
+    },
+    {
+      "query": "tag:#二级主页",
+      "color": {
+        "a": 1,
+        "rgb": 14048456
+      }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.75921407067026,
-  "lineSizeMultiplier": 3.19365393756932,
+  "nodeSizeMultiplier": 3.03914593566788,
+  "lineSizeMultiplier": 2.61793693550943,
   "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 11.8016162256378,
+  "repelStrength": 14.823324354302,
   "linkStrength": 0.604975439708446,
-  "linkDistance": 130,
-  "scale": 0.31649848640727085,
+  "linkDistance": 380,
+  "scale": 0.17925612154048765,
   "close": false
 }

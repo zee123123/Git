@@ -4,7 +4,7 @@
   "blue-topaz-theme@@layout-style-options": "layout-style-options-rectangle",
   "blue-topaz-theme@@font-family-change-to-default": false,
   "blue-topaz-theme@@non-border-bottom-header": true,
-  "blue-topaz-theme@@text-indentation-two-em": true,
+  "blue-topaz-theme@@text-indentation-two-em": false,
   "blue-topaz-theme@@clutter-free-headings": true,
   "blue-topaz-theme@@translucent-setting-panel": false,
   "blue-topaz-theme@@bt-status-off": true,

@@ -6,15 +6,30 @@
       {
         "id": "74b2f65070854e1d",
         "type": "leaf",
-        "dimension": 99.99999999999999,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "概念/detached head.md",
+            "file": "branch/branch.md",
             "mode": "source",
             "backlinks": true
           }
-        }
+        },
+        "group": "1e30e7c70703a221"
+      },
+      {
+        "id": "3aa6afc65fdb8f54",
+        "type": "leaf",
+        "dimension": 50,
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "branch/branch.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        },
+        "group": "1e30e7c70703a221"
       }
     ],
     "direction": "vertical"
@@ -41,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:gitignore",
+                "query": "staging",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,14 +93,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "概念/detached head.md",
+                "file": "branch/branch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -95,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "概念/detached head.md",
+                "file": "branch/branch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "概念/detached head.md"
+                "file": "branch/branch.md"
               }
             }
           }
@@ -130,15 +145,15 @@
   },
   "active": "74b2f65070854e1d",
   "lastOpenFiles": [
-    "概念/detached head.md",
+    "branch/branch.md",
     "概念/概念.md",
-    "git.md",
-    "git/gitignore/gitignore.md",
     "其他功能/功能.md",
-    "其他功能/stash/stash.md",
-    "概念/staging area.md",
-    "git diff/git diff.md",
-    "值得注意的点/how git works?.md",
-    "值得注意的点/注意📢.md"
+    "值得注意的点/注意📢.md",
+    "git/setup/How to setup?.md",
+    "git/check/How to check?.md",
+    "git/常用指令/常用指令.md",
+    "其他功能/re-do & restore/回到之前的 commit.md",
+    "其他功能/re-do & restore/restore & 返回.md",
+    "check out 到之前的 commit.md"
   ]
 }
