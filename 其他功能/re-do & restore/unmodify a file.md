@@ -1,9 +1,12 @@
-# checkout
+# How
+discard uncommited changes 抛弃所有的change (回到上一个commit 的状态)
+___
+# 实现方法:
+## 1. checkout
 `git checkout HEAD <filename>` or `git checkout -- <file>`
 filename 是你想要 discard change 的文件
 (checkout HEAD 就是回到 HEAD 指向的这个 commit 的 状态)
-____
-# 或者restore:
+## 2. restore:
 `git restore <filename>`
 restore 文件到 head 所在 commit 的版本
 `git restore --source HEAD~1 <Filename>`

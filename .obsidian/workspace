@@ -6,30 +6,51 @@
       {
         "id": "74b2f65070854e1d",
         "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "branch/branch.md",
+            "file": "其他功能/re-do & restore/Restore 和 Revert 的区别.md",
             "mode": "source",
             "backlinks": true
           }
         },
-        "group": "1e30e7c70703a221"
+        "group": "2099eb18781d519c"
       },
       {
-        "id": "3aa6afc65fdb8f54",
+        "id": "bf76f4e8cf2412c3",
         "type": "leaf",
-        "dimension": 50,
         "state": {
-          "type": "outgoing-link",
+          "type": "localgraph",
           "state": {
-            "file": "branch/branch.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
+            "file": "其他功能/re-do & restore/Restore 和 Revert 的区别.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
           }
         },
-        "group": "1e30e7c70703a221"
+        "group": "2099eb18781d519c"
       }
     ],
     "direction": "vertical"
@@ -93,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "branch/branch.md",
+                "file": "其他功能/re-do & restore/Restore 和 Revert 的区别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "branch/branch.md",
+                "file": "其他功能/re-do & restore/Restore 和 Revert 的区别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,11 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "branch/branch.md"
+                "file": "其他功能/re-do & restore/Restore 和 Revert 的区别.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,15 +167,15 @@
   },
   "active": "74b2f65070854e1d",
   "lastOpenFiles": [
-    "branch/branch.md",
-    "概念/概念.md",
-    "其他功能/功能.md",
-    "值得注意的点/注意📢.md",
-    "git/setup/How to setup?.md",
-    "git/check/How to check?.md",
-    "git/常用指令/常用指令.md",
+    "其他功能/re-do & restore/Restore 和 Revert 的区别.md",
+    "其他功能/re-do & restore/\"re-do\"的几个实现.md",
+    "其他功能/re-do & restore/revert.md",
+    "其他功能/re-do & restore/unmodify a file.md",
+    "其他功能/re-do & restore/unstaged a file.md",
+    "其他功能/re-do & restore/Reset (还原到其他 commit).md",
     "其他功能/re-do & restore/回到之前的 commit.md",
-    "其他功能/re-do & restore/restore & 返回.md",
-    "check out 到之前的 commit.md"
+    "概念/状态/状态.md",
+    "概念/状态/git 中状态之间的切换.md",
+    "概念/状态/staging area.md"
   ]
 }
